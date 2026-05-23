@@ -2,7 +2,7 @@
 
 # 🧠 LeetCode Solutions
 
-### by Syed Ghani · Software Engineer
+### by Syed Ghani · Full-Stack Engineer (Rails/React)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-syedghani.is--a.dev-0a0e1a?style=for-the-badge&logoColor=white)](https://syedghani.is-a.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-sghani001-181717?style=for-the-badge&logo=github)](https://github.com/sghani001)
@@ -18,8 +18,9 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Syed Ghani** — a Software Engineer based in **Lahore, Pakistan** 🇵🇰.  
+Hi, I'm **Syed Ghani** — a Full-Stack Engineer based in **Lahore, Pakistan** 🇵🇰.  
 I build production SaaS with **Ruby on Rails**, **React**, and **PostgreSQL**.  
+Currently learning **Python & Django** for AI backend tools.  
 This repo is my log of LeetCode problem-solving across Python and Ruby.
 
 > 💡 *"Every problem solved is a pattern learned."*
@@ -33,6 +34,17 @@ This repo is my log of LeetCode problem-solving across Python and Ruby.
 [![LeetCode Stats](https://leetcard.jacoblin.cool/syedghani?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/syedghani/)
 
 </div>
+
+| Metric | Value |
+|--------|-------|
+| ✅ Problems Solved | **35** |
+| 🟢 Easy | **18** |
+| 🟡 Medium | **12** |
+| 🔴 Hard | **5** |
+| 📬 Total Submissions | **63** |
+| 🎯 Acceptance Rate | **74.6%** |
+| ⚡ Beats | **50.2%** of all users |
+| 🏆 Rank | **3,174,284** |
 
 ---
 
@@ -81,8 +93,11 @@ This repo is my log of LeetCode problem-solving across Python and Ruby.
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 </div>
+
+---
 
 ## 🤝 Let's Connect
 

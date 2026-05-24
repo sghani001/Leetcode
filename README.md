@@ -20,31 +20,21 @@
 
 Hi, I'm **Syed Ghani** — a Full-Stack Engineer based in **Lahore, Pakistan** 🇵🇰.  
 I build production SaaS with **Ruby on Rails**, **React**, and **PostgreSQL**.  
-Currently learning **Python & Django** for AI backend tools.  
+Currently practicing **Python & Django** for AI backend tools.  
 This repo is my log of LeetCode problem-solving across Python and Ruby.
 
 > 💡 *"Every problem solved is a pattern learned."*
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 Live LeetCode Stats
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/syedghani?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/syedghani/)
+<!-- Live Interactive Heatmap Card -->
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/syedghani?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/syedghani/)
 
 </div>
-
-| Metric | Value |
-|--------|-------|
-| ✅ Problems Solved | **35** |
-| 🟢 Easy | **18** |
-| 🟡 Medium | **12** |
-| 🔴 Hard | **5** |
-| 📬 Total Submissions | **63** |
-| 🎯 Acceptance Rate | **74.6%** |
-| ⚡ Beats | **50.2%** of all users |
-| 🏆 Rank | **3,174,284** |
 
 ---
 

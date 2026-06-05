@@ -1,0 +1,21 @@
+def total_waviness(num1, num2)
+  total_waviness = 0
+
+  (num1..num2).each do |num|
+    digits = num.to_s.chars.map(&:to_i)
+    next if digits.length < 3
+
+    # Check every middle digit
+    (1..digits.length - 2).each do |i|
+      left   = digits[i - 1]
+      mid    = digits[i]
+      right  = digits[i + 1]
+
+      if (mid > left && mid > right) || (mid < left && mid < right)
+        total_waviness += 1
+      end
+    end
+  end
+
+  total_waviness
+end

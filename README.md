@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-syedghani.is--a.dev-0a0e1a?style=for-the-badge&logoColor=ffa116)](https://syedghani.is-a.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-sghani001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sghani001)
+[![GitHub](https://img.shields.io/badge/GitHub-dev-syedghani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-syedghani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-syedghani-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/syedghani/)
 
 <br/>
@@ -126,7 +126,7 @@ This repo is a living log of LeetCode problem-solving across Python and Ruby.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_syedghani.is--a.dev-Visit-0a0e1a?style=for-the-badge)](https://syedghani.is-a.dev/)
-[![GitHub Follow](https://img.shields.io/github/followers/sghani001?label=Follow&style=for-the-badge&logo=github)](https://github.com/sghani001)
+[![GitHub Follow](https://img.shields.io/github/followers/dev-syedghani?label=Follow&style=for-the-badge&logo=github)](https://github.com/dev-syedghani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-syedghani-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/syedghani/)
 
 </div>
